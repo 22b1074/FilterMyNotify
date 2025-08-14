@@ -23,5 +23,10 @@ Too many noisy notifications were breaking my focus — so I made this simple to
 ## 📦 Download APK  
 [Download FilterMyNotify](https://lnkd.in/gACGWSdg )
 
+
+## 💻 Code
+[View Source Code](https://drive.google.com/file/d/16DEkxSuY--vj0DEAlcsvDHwD7PLXx9Y-/view?usp=sharing)  
+
+
 ## Feedback  
 Open to suggestions or PRs!
